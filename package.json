@@ -1,0 +1,18 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start-backend": "nodemon ./server.js localhost 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yahoo-finance": "^0.3.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
