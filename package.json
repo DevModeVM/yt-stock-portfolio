@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "start-backend": "nodemon ./server.js localhost 8080"
+    "start": "nodemon ./server.js"
   },
   "author": "",
   "license": "ISC",
