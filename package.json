@@ -9,10 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
-    "yahoo-finance": "^0.3.7"
+    "express": "^4.17.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.12"
+    "nodemon": "^2.0.12",
+    "yahoo-finance2": "^2.3.6"
   }
 }
